@@ -17,6 +17,7 @@ class PageLogin(Base):
     #输入密码
     def page_input_password(self,text):
         self.base_input(loc_password,text)
+
     #点击登录
     def page_click_login_btn(self):
         self.base_click(loc_login_btn)

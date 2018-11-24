@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8d535b82-7c5b-4216-ae84-7c22699ef4a2" name="Default" comment="" />
+    <list default="true" id="8d535b82-7c5b-4216-ae84-7c22699ef4a2" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/base/base.py" afterPath="$PROJECT_DIR$/base/base.py" />
+      <change beforePath="$PROJECT_DIR$/page/page_login.py" afterPath="$PROJECT_DIR$/page/page_login.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +20,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pytest.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../untitled_setting/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="207">
               <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/base/base.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_login.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/page/page_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -105,14 +129,12 @@
       <list>
         <option value="$PROJECT_DIR$/base/base_01.py" />
         <option value="D:/测试学习/09.移动自动化/Day05/Scripts/test_login.py" />
-        <option value="$PROJECT_DIR$/page/page_login.py" />
         <option value="$PROJECT_DIR$/base/get_driver.py" />
         <option value="$PROJECT_DIR$/scripts/test_login.py" />
         <option value="$PROJECT_DIR$/../untitled-demo2/page/page_setting.py" />
         <option value="$PROJECT_DIR$/../untitled-demo2/base/get_driver.py" />
         <option value="$PROJECT_DIR$/../untitled-demo2/scripts/test_search.py" />
         <option value="$PROJECT_DIR$/../untitled-demo2/base/base.py" />
-        <option value="$PROJECT_DIR$/base/base.py" />
         <option value="$PROJECT_DIR$/../untitled_setting/base/base.yaml" />
         <option value="$PROJECT_DIR$/../untitled_setting/base/read_yaml.py" />
         <option value="$PROJECT_DIR$/../untitled-demo2/pytest.ini" />
@@ -120,6 +142,8 @@
         <option value="$PROJECT_DIR$/../untitled_setting/test01/test_01.py" />
         <option value="$PROJECT_DIR$/../untitled_setting/pytest.ini" />
         <option value="$PROJECT_DIR$/../untitled_setting/test01/test01.py" />
+        <option value="$PROJECT_DIR$/base/base.py" />
+        <option value="$PROJECT_DIR$/page/page_login.py" />
       </list>
     </option>
   </component>
@@ -129,7 +153,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-184" />
     <option name="y" value="71" />
     <option name="width" value="1386" />
@@ -157,6 +181,16 @@
             <path>
               <item name="untitled_podemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled_podemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled_podemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled_podemo" type="462c0819:PsiDirectoryNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled_podemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled_podemo" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="untitled_podemo" type="b2602c69:ProjectViewProjectNode" />
@@ -319,7 +353,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.4969743" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329582" sideWeight="0.5121029" order="7" side_tool="true" content_ui="tabs" />
@@ -564,20 +598,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/page_login.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/base/base.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="9" column="33" lean-forward="false" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../read_yaml.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
@@ -670,6 +690,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/base/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/page_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
           <folding />
         </state>
       </provider>

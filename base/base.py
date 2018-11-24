@@ -14,6 +14,7 @@ class Base():
     # def base_find_element(self,loc):
     #     element=self.driver.find_element(*loc)
     #     return element
+
     # 点击元素 封装
     def base_click(self,loc):
         self.base_find_element(loc).click()
