@@ -23,3 +23,4 @@ class TestLogin():
         self.login.page_click_login_btn()
         #哈哈
 
+        assert 0
